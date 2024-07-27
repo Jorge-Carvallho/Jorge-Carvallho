@@ -5,7 +5,7 @@ Este é o meu repositório para estudos e projetos.
 ## Sobre
 
 Aqui você encontrará alguns dos meus trabalhos e experimentos em programação.
-Talvez você encontre algo interessante por aqui. Divirta-se explorando meus projetos e contribuições!
+
 
 ## Contatos
 
