@@ -9,6 +9,9 @@ Aqui você encontrará alguns dos meus trabalhos e experimentos em programação
 
 ## Contatos
 
+## Contatos
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil) ![LinkedIn](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg)
+
 
 <!--
 
