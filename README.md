@@ -7,6 +7,6 @@ Sou estudante de programação e tecnologia. Neste repositório, você encontrar
 
 ## Contatos
 - WhatsApp: [71991432033](https://wa.me/5571991432033)  
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/jorge-carvallho/)
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/jorge-carvallho/)
 
 Sinta-se à vontade para entrar em contato comigo!
