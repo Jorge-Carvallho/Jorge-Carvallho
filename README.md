@@ -1,22 +1,12 @@
-### Hi there 👋
+# Olá, pessoal! 👋
 
-Este é o meu repositório para estudos e projetos. 
+Bem-vindos ao meu repositório **Jorge-Carvallho**!
 
-## Sobre
-
-Aqui você encontrará alguns dos meus trabalhos e experimentos em programação.
-
+## Sobre Mim
+Sou estudante de programação e tecnologia. Neste repositório, você encontrará alguns dos meus trabalhos e experimentos em programação, que refletem meu aprendizado e crescimento na área.
 
 ## Contatos
+- WhatsApp: [71991432033](https://wa.me/5571991432033)  
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/jorge-carvallho/)
 
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sinta-se à vontade para entrar em contato comigo!
