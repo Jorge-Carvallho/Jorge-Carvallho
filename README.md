@@ -44,7 +44,5 @@ Sou estudante de programação e tecnologia. Neste repositório, você encontrar
 </div>
 
 
-</div>
-![Snake animation](https://github.com/Jorge-Carvallho/Jorge-Carvallho/blob/output/github-contribution-grid-snake.svg)
-
-
+</div> 
+![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
