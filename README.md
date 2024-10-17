@@ -10,7 +10,7 @@ Sou estudante de programação e tecnologia. Neste repositório, você encontrar
 
 
 
-
+### Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -22,8 +22,15 @@ Sou estudante de programação e tecnologia. Neste repositório, você encontrar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
  
 </div>
+<div>
+  <a href="https://github.com/Jorge-Carvallho">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Carvallho&layout=compact&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-Carvallho&show_icons=true&theme=radical"/>
+  </a>
+</div>
 
 ###
+### Contatos:
 <div align="left">
   <!-- Badge do WhatsApp -->
   <a href="https://wa.me/5571991432033" target="_blank">
@@ -38,5 +45,6 @@ Sou estudante de programação e tecnologia. Neste repositório, você encontrar
 
 
 </div>
+![Snake animation](https://github.com/Jorge-Carvallho/Jorge-Carvallho/blob/output/github-contribution-grid-snake.svg)
 
 
