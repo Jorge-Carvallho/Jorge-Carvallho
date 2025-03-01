@@ -52,5 +52,4 @@ Sou estudante de programação e tecnologia. Neste repositório, você encontrar
 
 </div> 
 
-##
-![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
+
